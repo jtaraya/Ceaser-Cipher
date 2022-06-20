@@ -3,4 +3,4 @@ build/
 .idea/
 gradle/
 gradlew*
-settings.gradle
+settings.gradle.
