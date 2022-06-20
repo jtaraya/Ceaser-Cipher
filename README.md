@@ -10,5 +10,5 @@
 {There are currently no bugs to report. }
 
 ## Technologies Used
-{Tools used are Git Bash and Visual Studio Code using ;
+{Tools used are Git Bash }
 *JAVA
